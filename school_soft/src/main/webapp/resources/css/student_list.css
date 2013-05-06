@@ -1,0 +1,23 @@
+
+.button{
+	
+	display:inline;
+	width: 122px;  
+	height: 32px; 
+	line-height: 32px; 
+	font-size: 13px; 
+	text-align: center; 
+	text-decoration: none; 
+	font-weight: bold; 
+	background: url(../images/templatemo_button.jpg) no-repeat top center; 
+	color: #bfc5ce; 
+	
+}
+
+.posn1{
+	
+	position:absolute;
+	left:100px;
+	top:-100px
+	
+}
